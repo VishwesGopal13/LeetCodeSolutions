@@ -24,6 +24,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
@@ -37,4 +38,8 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
