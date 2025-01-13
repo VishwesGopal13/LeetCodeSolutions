@@ -1,3 +1,11 @@
+from collections import Counter
+
 class Solution:
     def minimumLength(self, s: str) -> int:
-        return sum(1 if x % 2 else 2 for x in Counter(s).values())
+        count = Counter(s)
+        minus = 0
+        for x in count.values():
+            while x >= 3:
+                minus += 2
+                x -= 2
+        return len(s) - minus
