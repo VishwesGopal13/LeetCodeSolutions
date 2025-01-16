@@ -1,13 +1,6 @@
+from functools import reduce
+from operator import xor
+
 class Solution:
-    def xorAllNums(self, nums1, nums2):
-        c1 = len(nums1)
-        c2 = len(nums2)
-        x1 = 0
-        x2 = 0
-        if c1 % 2 != 0:
-            for i in nums2:
-                x2 ^= i
-        if c2 % 2 != 0:
-            for i in nums1:
-                x1 ^= i
-        return x1 ^ x2
+    def xorAllNums(self, A, B):
+        return (len(A) % 2 * reduce(xor, B)) ^ (len(B) % 2 * reduce(xor, A))
