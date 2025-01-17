@@ -1,3 +1,4 @@
 class Solution:
-    def doesValidArrayExist(self, derived):
-        return reduce(lambda x, y: x ^ y, derived, 0) == 0
+    def doesValidArrayExist(self, derived: List[int]) -> bool:
+        return reduce(xor, derived)==0
+        
