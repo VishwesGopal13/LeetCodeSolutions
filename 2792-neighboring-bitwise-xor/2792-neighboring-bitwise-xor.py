@@ -1,3 +1,3 @@
 class Solution:
-    def doesValidArrayExist(self, derived: List[int]) -> bool:
-        return sum(derived)%2==0
+    def doesValidArrayExist(self, a: List[int]) -> bool:
+        return reduce(xor,a)==0
