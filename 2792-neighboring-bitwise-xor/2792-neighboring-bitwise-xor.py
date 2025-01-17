@@ -1,7 +1,7 @@
 class Solution:
     def doesValidArrayExist(self, derived: List[int]) -> bool:
-        n = len(derived)
-        _xor = derived[0]
-        for i in range(1,len(derived)):
-            _xor^=derived[i]
-        return (_xor==0)
+        res = 0
+        for n in derived:
+            res ^= n
+        
+        return res == 0
