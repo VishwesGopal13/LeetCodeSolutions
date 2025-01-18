@@ -44,6 +44,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -58,4 +59,24 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
