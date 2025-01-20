@@ -19,6 +19,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
@@ -47,6 +48,7 @@ Leet Code Problem Answers
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
@@ -79,6 +81,7 @@ Leet Code Problem Answers
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
