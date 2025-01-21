@@ -1,10 +1,10 @@
 class Solution:
     def gridGame(self, grid: List[List[int]]) -> int:
-        topSum = sum(grid[0])
-        botSum = 0
-        min2 = float('inf')
-        for col in range(len(grid[0])):
-            topSum -= grid[0][col]
-            min2 = min(min2, max(topSum, botSum))
-            botSum += grid[1][col]
-        return min2
+        a = sum(grid[0])
+        b = 0
+        res = float('inf')
+        for i in range(len(grid[0])):
+            a -= grid[0][i]
+            res = min(res, max(a, b))
+            b += grid[1][i]
+        return res
