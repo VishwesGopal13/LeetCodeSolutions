@@ -1,15 +1,10 @@
 class Solution:
     def gridGame(self, grid: List[List[int]]) -> int:
-        n=len(grid[0]) 
-        U=sum(grid[0])-grid[0][0] 
-        D=0
-        Robot2=U 
-
-        for i in range(1, n): 
-            U-=grid[0][i] 
-            D+=grid[1][i-1]
-
-            P=max(U, D)
-            Robot2=min(Robot2, P)
-
-        return Robot2
+        topSum = sum(grid[0])
+        botSum = 0
+        min2 = float('inf')
+        for col in range(len(grid[0])):
+            topSum -= grid[0][col]
+            min2 = min(min2, max(topSum, botSum))
+            botSum += grid[1][col]
+        return min2
