@@ -1,37 +1,46 @@
 class Solution:
     def maxPower(self, stations: List[int], r: int, k: int) -> int:
-        low=min(stations)
-        high=sum(stations)+k
-
-        stations = [0]*r + stations + [0]*r
-        ressult = low
-
-        def check(mid):
-            available = k 
-            index = r
-            window = sum(stations[:2*r])
-            added = defaultdict(int)
-
-            while index < len(stations) - r:
-                window += stations[index + r]
-                if window < mid:
-                    diff = mid - window
-                    if diff > available:
-                        return False
-                    window += diff
-                    added[index + r] = diff
-                    available -= diff
-                
-                window -= (stations[index - r] + added[index - r])
-                index += 1
-
-            return True
-
-        while low<=high:
-            m=(low+high)//2
-            if check(m):
-                result = m
-                low = m+1
+        n = len(stations)
+        df = [0] * n
+        powers = [0] * n
+        start = 0
+        for i, v in enumerate(stations):
+            if i < r:
+                start += v
             else:
-                high = m-1
-        return result
+                df[i - r] += v
+            if i + r + 1 < n:
+                df[i + r + 1] -= v
+        
+        for i in range(n):
+            start += df[i]
+            powers[i] = start
+
+        start = min(powers)
+        end = start + k + 1
+
+        while start < end:
+            mid = (start + end) // 2
+
+            cond = True
+
+            df = [0] * n
+            d = 0
+            need = 0
+            for i in range(n):
+                d -= df[i]
+                if powers[i] + d < mid:
+                    x = mid - powers[i] - d
+                    need += x
+                    d += x
+                    e = i + 2 * r + 1
+                    if e < n:
+                        df[e] += x
+                    if need > k:
+                        break
+            if need > k:
+                end = mid
+            else:
+                start = mid + 1
+
+        return start - 1
