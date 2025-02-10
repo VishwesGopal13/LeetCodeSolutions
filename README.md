@@ -33,6 +33,7 @@ Leet Code Problem Answers
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2509-minimize-xor) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Counting
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Leet Code Problem Answers
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -92,4 +95,13 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2145-grid-game) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Sliding Window
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
