@@ -49,6 +49,7 @@ Leet Code Problem Answers
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2145-grid-game](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -104,4 +105,8 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
