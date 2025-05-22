@@ -36,6 +36,7 @@ Leet Code Problem Answers
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Leet Code Problem Answers
 | [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Leet Code Problem Answers
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Leet Code Problem Answers
 | ------- |
 | [2145-grid-game](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
 | ------- |
@@ -121,4 +125,8 @@ Leet Code Problem Answers
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Sorting
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
