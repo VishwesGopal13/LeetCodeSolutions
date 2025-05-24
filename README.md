@@ -9,6 +9,7 @@ Leet Code Problem Answers
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3194-find-words-containing-character](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ Leet Code Problem Answers
 | [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3194-find-words-containing-character](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
