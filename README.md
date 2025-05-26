@@ -28,6 +28,7 @@ Leet Code Problem Answers
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
