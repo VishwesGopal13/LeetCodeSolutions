@@ -137,4 +137,12 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
