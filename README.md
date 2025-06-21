@@ -11,6 +11,7 @@ Leet Code Problem Answers
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ Leet Code Problem Answers
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
@@ -43,11 +45,13 @@ Leet Code Problem Answers
 | [2509-minimize-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
@@ -136,6 +140,7 @@ Leet Code Problem Answers
 ## Sorting
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
 |  |
