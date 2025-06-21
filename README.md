@@ -145,4 +145,12 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
