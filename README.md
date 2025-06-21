@@ -8,6 +8,7 @@ Leet Code Problem Answers
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
@@ -160,4 +161,8 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
