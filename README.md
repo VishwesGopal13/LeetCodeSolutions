@@ -9,6 +9,7 @@ Leet Code Problem Answers
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
@@ -24,6 +25,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -144,6 +146,7 @@ Leet Code Problem Answers
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
