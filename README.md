@@ -93,6 +93,7 @@ Leet Code Problem Answers
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
@@ -148,6 +149,7 @@ Leet Code Problem Answers
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -165,4 +167,12 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
