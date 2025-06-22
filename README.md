@@ -11,6 +11,7 @@ Leet Code Problem Answers
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -178,4 +179,8 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
