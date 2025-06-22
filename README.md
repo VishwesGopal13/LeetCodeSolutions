@@ -27,6 +27,7 @@ Leet Code Problem Answers
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -55,6 +56,7 @@ Leet Code Problem Answers
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -69,6 +71,7 @@ Leet Code Problem Answers
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -150,6 +153,7 @@ Leet Code Problem Answers
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
@@ -190,4 +194,8 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
