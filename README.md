@@ -68,6 +68,7 @@ Leet Code Problem Answers
 | ------- |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -85,6 +86,7 @@ Leet Code Problem Answers
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
