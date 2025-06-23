@@ -44,6 +44,7 @@ Leet Code Problem Answers
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -198,4 +199,8 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
