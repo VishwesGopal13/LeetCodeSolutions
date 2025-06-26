@@ -8,6 +8,7 @@ Leet Code Problem Answers
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
