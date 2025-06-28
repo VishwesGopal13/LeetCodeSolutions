@@ -70,6 +70,7 @@ Leet Code Problem Answers
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -184,6 +185,7 @@ Leet Code Problem Answers
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 ## Tree
