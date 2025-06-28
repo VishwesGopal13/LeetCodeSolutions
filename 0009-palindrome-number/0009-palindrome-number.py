@@ -4,5 +4,4 @@ class Solution:
         rs = s[::-1]
         if s==rs:
             return True
-        else:
-            return False
+        return False
