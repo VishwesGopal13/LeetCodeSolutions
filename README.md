@@ -71,6 +71,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -122,6 +123,7 @@ Leet Code Problem Answers
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2145-grid-game) |
@@ -199,6 +201,7 @@ Leet Code Problem Answers
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Divide and Conquer
 |  |
