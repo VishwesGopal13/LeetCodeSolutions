@@ -66,6 +66,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Array
 |  |
@@ -75,6 +76,7 @@ Leet Code Problem Answers
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
@@ -190,6 +192,7 @@ Leet Code Problem Answers
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
 | ------- |
