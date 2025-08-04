@@ -31,6 +31,7 @@ Leet Code Problem Answers
 | [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -81,6 +82,7 @@ Leet Code Problem Answers
 | [0198-house-robber](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -147,6 +149,7 @@ Leet Code Problem Answers
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Backtracking
 |  |
