@@ -66,12 +66,14 @@ Leet Code Problem Answers
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -212,6 +214,7 @@ Leet Code Problem Answers
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
