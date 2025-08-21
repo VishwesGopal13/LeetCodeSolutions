@@ -75,6 +75,7 @@ Leet Code Problem Answers
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ Leet Code Problem Answers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwesGopal13/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
